@@ -63,9 +63,6 @@ I am about to graduate and looking for a job. 🤔
 <a href="https://gitee.com/Shucharjer" target="_blank">
   <img src="https://img.shields.io/badge/Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="LL Badge"/>
 </a>
-<a href="https://steamcommunity.com/id/27523" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
-</a>
 <a href="https://space.bilibili.com/270026196" target="_blank">
   <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
 </a>
