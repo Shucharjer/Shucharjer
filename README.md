@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Despite what you may have thought, I am studying at a non-key university.  
-不管你怎么想，我正就读于一所双非大学.  
 The language I usually use is C++, and the standard is usually C++20.  
 我经常使用的语言是C++，并且标准通常是C++20.  
 I am happy to accept new things, such as new features in modern cpp.    
 我乐于接受新事物，比如现代C++的特性  
-I am about to graduate and looking for a job. 🤔  
-我既将毕业，正在找工作. 🤔  
 
 ### Interested Areas | 感兴趣的方向 🔭
 
@@ -62,7 +58,4 @@ I am about to graduate and looking for a job. 🤔
 
 <a href="https://gitee.com/Shucharjer" target="_blank">
   <img src="https://img.shields.io/badge/Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="LL Badge"/>
-</a>
-<a href="https://space.bilibili.com/270026196" target="_blank">
-  <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
 </a>
